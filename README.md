@@ -98,6 +98,8 @@ The nomenclature followed to name the files is as follows: uA_sB_CD.txt
 #### REFERENCES
 For further information on the database and on different applications where it has been used, we refer the reader to (all these articles are publicly available in the [publications](http://atvs.ii.uam.es/atvs/listpublications.do) section of the BiDA group webpage.)
 
++ [TIFS2020_MobileTouchDB] R. Tolosana, R. Vera-Rodriguez, J. Fierrez and J. Ortega-Garcia, “BioTouchPass2: Touchscreen Password Biometrics Using Time-Aligned Recurrent Neural Networks”, *IEEE Transactions on Information Forensics and Security*, vol. 15, pp: 2616-2628, 2020.
+
 + [CVPR2019_MobileTouchDB] R. Tolosana, J. Gismero-Trujillo, R. Vera-Rodriguez, J. Fierrez and J. Ortega-Garcia, "MobileTouchDB: Mobile Touch Character Database in the Wild and Biometric Benchmark", in Proc. IEEE Conf. on Computer Vision and Pattern Recognition Workshops, CVPRw, Long Beach, USA, 2019.
 
 Please remember to reference articles [CVPR2019_MobileTouchDB] on any work made public, whatever the form, based directly or indirectly on any part of the MobileTouchDB database.
