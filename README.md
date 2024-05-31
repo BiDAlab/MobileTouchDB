@@ -96,7 +96,7 @@ The nomenclature followed to name the files is as follows: uA_sB_CD.txt
 * Please note that there is a mistake in Fig. 2. There are 158 users with at least two sessions, not 159.
 
 #### REFERENCES
-For further information on the database and on different applications where it has been used, we refer the reader to (all these articles are publicly available in the [publications](http://atvs.ii.uam.es/atvs/listpublications.do) section of the BiDA group webpage.)
+For further information on the database and on different applications where it has been used, we refer the reader to (all these articles are publicly available in the [publications](https://bidalab.eps.uam.es/listpublications) section of the BiDA group webpage.)
 
 + [TIFS2020_MobileTouchDB] R. Tolosana, R. Vera-Rodriguez, J. Fierrez and J. Ortega-Garcia, “BioTouchPass2: Touchscreen Password Biometrics Using Time-Aligned Recurrent Neural Networks”, *IEEE Transactions on Information Forensics and Security*, vol. 15, pp: 2616-2628, 2020.
 
